@@ -1,0 +1,3 @@
+all:
+	erlc *.erl
+	
